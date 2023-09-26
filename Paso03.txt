@@ -1,0 +1,1 @@
+Este archivo sólo fue creado para realizar el paso 3 de los ejercicios relacionados a Git y GitHub de la clase 2 del curso de Desarrollador Java
