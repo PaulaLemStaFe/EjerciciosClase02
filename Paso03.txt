@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Este archivo sólo fue creado 
 para realizar el paso 3 
 de los ejercicios relacionados
 a Git y GitHub 
 de la clase 2 
 del curso de Desarrollador Java.
+=======
+Este archivo sólo fue creado para realizar el paso 3 de los ejercicios 
+relacionados a Git y GitHub de la clase 2 del curso de Desarrollador Java.
+>>>>>>> d5ed751b28c8209c0ac77685ff603b16af963599
